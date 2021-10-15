@@ -22,6 +22,7 @@ _{My Portfolio Website}_
 * _Connect to your github repository_
 * _Open DIRECTORYNAME/index.html in your browser_
 * _Open files in VS Code to edit_
+* _Type michaelhwatkins.github.io/Portfolio into your browser to view_
 
 ## Known Bugs
 
