@@ -1,5 +1,7 @@
 body {
   background-color: blue;
+  animation-name: grad-colour;
+  animation-duration: 10s;
 }
 
 .card {
@@ -20,6 +22,11 @@ img {
   background-color: white;
 }
 
+@keyframes grad-colour {
+  from {background-color: blue;}
+  to {background-color: green;}
+}
+
 #nameplate {
   border-style: solid;
   text-align: center;
@@ -27,5 +34,10 @@ img {
 
 #quote {
   padding-top: 50px;
+}
+
+span {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
 }
 
