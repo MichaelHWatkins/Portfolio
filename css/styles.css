@@ -1,5 +1,5 @@
 body {
-  background-color: blue;
+  background-color: #586994;
   animation-name: grad-colour;
   animation-duration: 10s;
 }
@@ -8,6 +8,11 @@ body {
   margin: 0 auto;
   float: none;
   margin-bottom: 4em;
+  background-color: #B4C4AE;
+}
+
+.center {
+  text-align: center;
 }
 
 img {
@@ -19,11 +24,11 @@ img {
 }
 
 .jumbotron {
-  background-color: white;
+  background-color: #B4C4AE;
 }
 
 @keyframes grad-colour {
-  from {background-color: blue;}
+  from {background-color: #586994;}
   to {background-color: green;}
 }
 
