@@ -1,12 +1,23 @@
 body {
   background-color: blue;
 }
+
+.card {
+  margin: 0 auto;
+  float: none;
+  margin-bottom: 4em;
+}
+
 img {
   height: auto;
   width: 25%;
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+.jumbotron {
+  background-color: white;
 }
 
 #nameplate {
@@ -17,3 +28,4 @@ img {
 #quote {
   padding-top: 50px;
 }
+
