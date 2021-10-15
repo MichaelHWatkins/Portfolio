@@ -1,7 +1,7 @@
 body {
   background-color: #586994;
   animation-name: grad-colour;
-  animation-duration: 10s;
+  animation-duration: 180s;
 }
 
 .card {
@@ -12,6 +12,7 @@ body {
   border: solid;
   border-radius: 2%;
   padding: 10px;
+  float: none;
 }
 
 .center {
