@@ -9,6 +9,9 @@ body {
   float: none;
   margin-bottom: 4em;
   background-color: #B4C4AE;
+  border: solid;
+  border-radius: 2%;
+  padding: 10px;
 }
 
 .center {
@@ -25,6 +28,9 @@ img {
 
 .jumbotron {
   background-color: #B4C4AE;
+  border-style: solid;
+  border-radius: 1%;
+
 }
 
 @keyframes grad-colour {
